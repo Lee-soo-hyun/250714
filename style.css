@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
     background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
@@ -96,3 +97,4 @@ h1 {
 .hidden {
     display: none;
 }
+
